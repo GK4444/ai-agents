@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-community
+langchain-ollama
+langsmith
+ollama
+chromadb
+dfminer.six
+pypdf
+nest_asyncio
