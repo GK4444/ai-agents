@@ -6,8 +6,12 @@ langchain-ollama
 langchain_groq
 langchain_core
 langsmith
+langserve
 ollama
 chromadb
 dfminer.six
 pypdf
 nest_asyncio
+fastapi
+uvicorn
+sse_starlette
